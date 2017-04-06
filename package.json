@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.text-wrap",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Text Wrap Tool",
   "main": "stylesheets/_tool-text-wrap.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "tool-text-wrap",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
